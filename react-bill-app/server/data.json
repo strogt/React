@@ -1,0 +1,130 @@
+{
+  "ka": [
+    {
+      "type": "pay",
+      "money": "-90",
+      "date": "2024-8-24 10:36:42",
+      "useFor": "foods",
+      "id": "0"
+    },
+    {
+      "type": "pay",
+      "money": "-90",
+      "date": "2024-8-23 10:36:42",
+      "useFor": "drinks",
+      "id": "1"
+    },
+    {
+      "type": "pay",
+      "money": "-88",
+      "date": "2024-5-24 10:40:42",
+      "useFor": "longdistance",
+      "id": "2"
+    },
+    {
+      "type": "income",
+      "money": "100",
+      "date": "2024-3-24 11:36:42",
+      "useFor": "bouns",
+      "id": "3"
+    },
+    {
+      "type": "pay",
+      "money": "-22",
+      "date": "2024-3-24 08:36:42",
+      "useFor": "dessert",
+      "id": "4"
+    },
+    {
+      "type": "income",
+      "money": "99",
+      "date": "2024-7-24 21:36:42",
+      "useFor": "drinks",
+      "id": "5"
+    },
+    {
+      "type": "pay",
+      "money": "-30",
+      "date": "2024-8-24 20:36:42",
+      "useFor": "drinks",
+      "id": "6"
+    },
+    {
+      "type": "income",
+      "money": "17",
+      "date": "2024-7-24 10:36:36",
+      "useFor": "drinks",
+      "id": "7"
+    },
+    {
+      "type": "income",
+      "money": "100",
+      "date": "2024-8-2 11:36:42",
+      "useFor": "bouns",
+      "id": "3"
+    },
+    {
+      "type": "pay",
+      "money": "-68",
+      "date": "2024-8-24 07:36:42",
+      "useFor": "drinks",
+      "id": "8"
+    },
+    {
+      "type": "income",
+      "money": "98",
+      "date": "2024-5-24 18:36:42",
+      "useFor": "drinks",
+      "id": "9"
+    },
+    {
+      "type": "pay",
+      "money": "-1",
+      "date": "2024-6-24 13:36:42",
+      "useFor": "drinks",
+      "id": "10"
+    },
+    {
+      "type": "income",
+      "money": "9",
+      "date": "2024-4-24 15:36:42",
+      "useFor": "drinks",
+      "id": "11"
+    },
+    {
+      "type": "pay",
+      "money": "-7",
+      "date": "2024-6-24 19:36:42",
+      "useFor": "drinks",
+      "id": "12"
+    },
+    {
+      "type": "income",
+      "money": "98",
+      "date": "2024-8-17 21:36:42",
+      "useFor": "drinks",
+      "id": "13"
+    },
+    {
+      "type": "income",
+      "money": "100",
+      "date": "2024-3-24 22:36:42",
+      "useFor": "drinks",
+      "id": "14"
+    },
+    {
+      "id": "15",
+      "type": "pay",
+      "money": -21.5,
+      "data": "2408-08-27 21:52:20",
+      "useFor": "dessert"
+    },
+    {
+      "id": 17,
+      "type": "pay",
+      "money": -21.5,
+      "data": "2408-08-27 22:03:39",
+      "useFor": "food"
+    }
+  ]
+}
