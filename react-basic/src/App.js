@@ -1,11 +1,9 @@
-// import UseReduxAsync from "./components/store/UseReduxAsync"; 
-import UseUseState from "./components/basic/UseUseState"; 
-
+import ClassComponentsUse from "./components/‌advanced/ClassComponentsUse";
 
 function App() {
   return (
     <div className="App">
-      <UseUseState />
+      <ClassComponentsUse />
     </div>
   );
 }
